@@ -110,10 +110,14 @@ Designed, implemented, tested, launched and maintained this project for almost 3
 <code><img title="App Store" height="25" src="images/app-store.svg"></code>
 </a>
 
+<hr>
+<br>
+<br>
+
 <!-- Oficinei -->
 
 <p align="center">
-<a href="https://www.mycon.com.br/">
+<a href="https://oficinei.com.br/">
   <img width=100 align="center" src="https://play-lh.googleusercontent.com/Ib3U-5eFRHx25svGc0K1eQG4lF12469c_5SmQ9AnotM9GPf1IBBok6JXnBIV-MGah0E=w240-h480-rw" />
 </a>
 
@@ -150,6 +154,9 @@ Built complete application from backend to frontend and mobile app. This is a pr
 <code><img title="Google Play" height="25" src="images/google-play.svg"></code>
 </a>
 
+<hr>
+<br>
+<br>
 
 <p align="center">
 <a href="https://github.com/DizzyMelo/WeatherForecastApp">
