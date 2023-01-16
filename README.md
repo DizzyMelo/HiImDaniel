@@ -131,6 +131,42 @@ Built complete application from backend to frontend and mobile app. This is a pr
 </a>
 
 
+<p align="center">
+<a href="https://github.com/DizzyMelo/WeatherForecastApp">
+  <img width=100 align="center" src="images/weather_icon_512.png" />
+</a>
+
+</p>
+
+<br>
+
+<h3> Weather Forecast App </h3>
+
+<br>
+
+Built weather forecast android application using the open weather map API, Kotlin, and Jetpack Compose. 
+
+1. Kotlin
+2. Retrofit
+3. GSON
+4. Dagger Hilt
+5. Coroutines
+6. REST API
+
+<a href="https://github.com/DizzyMelo/WeatherForecastApp">
+  <img width=200 align="center" src="images/splash.png" />
+</a>
+<a href="https://github.com/DizzyMelo/WeatherForecastApp">
+  <img width=200 align="center" src="images/main.png" />
+</a>
+<a href="https://github.com/DizzyMelo/WeatherForecastApp">
+  <img width=200 align="center" src="images/favorites.png" />
+</a>
+
+
+<br>
+
+
 
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
