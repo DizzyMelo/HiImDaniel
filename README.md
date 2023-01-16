@@ -83,7 +83,11 @@
 
 <br>
 
-Designed, implemented, tested, launched and maintained this project for almost 3 years. This mobile application has more than 100 thousand downloads and has over 5 thousand daily active users. It also counts with a 4.7 rating on Google Play Store and 4.8 on App Store by the time I left the company. Some of the technolodies used are: Kotlin, OkHttp, Dart, and Flutter
+Designed, implemented, tested, launched and maintained this project for almost 3 years. This mobile application has more than 100 thousand downloads and has over 5 thousand daily active users. It also counts with a 4.7 rating on Google Play Store and 4.8 on App Store by the time I left the company. Some of the technolodies used are: 
+1. Kotlin
+2. OkHttp
+3. Dart
+4. Flutter
 
 <br>
 
@@ -111,7 +115,13 @@ Designed, implemented, tested, launched and maintained this project for almost 3
 
 <br>
 
-Built complete application from backend to frontend and mobile app. This is a propietary solution I developed and sold for a few businesses about two years ago. Some of the technologies used are: Nodejs, HTML, CSS, Javascript, Dart, and Flutter. 
+Built complete application from backend to frontend and mobile app. This is a propietary solution I developed and sold for a few businesses about two years ago. Some of the technologies used are: 
+1. Nodejs 
+2. HTML
+2. CSS
+3. Javascript
+4. Flutter
+5. MongoDB 
 
 <br>
 
