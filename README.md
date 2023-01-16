@@ -88,6 +88,7 @@ Designed, implemented, tested, launched and maintained this project for almost 3
 2. OkHttp
 3. Dart
 4. Flutter
+5. Firebase
 
 <a href="https://github.com/DizzyMelo/WeatherForecastApp">
   <img width=200 align="center" src="https://play-lh.googleusercontent.com/FNgEnNA7YSFx5Mz8POWuZK7Oaqegx13JW76ACmxE5dG5389HzsbgwMomUqmlswfZfA=w526-h296-rw" />
