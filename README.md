@@ -24,7 +24,7 @@
   <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
   <code><img title="Google Play" height="25" src="images/google-play.svg"></code>
   <code><img title="App Store" height="25" src="images/app-store.svg"></code>
-  <code><img title="Spring Framework" height="25" src="images/Spring-boot.svg"></code>
+  <code><img title="Spring Framework" height="25" src="images/spring-boot.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
