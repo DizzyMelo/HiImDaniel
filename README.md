@@ -1,45 +1,40 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
-  </a>
-</h1>
+# Welcome to my profile
    
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+### About Me:
 <p align="center">
-  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  Hi, I'm Daniel Melo, Software Engineer and Developer from Brazil
   <br>
   <br>
-  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  👨‍🎓 I have a Bachelor's degree in Software Engineering from Brigham Young University - Idaho
   <br>
-  💻 I love Writing code, Hardware and learning anything about them 😊
+  💻 I love writing code and building products that cause an impact in people's lives 😊
   <br>
-  📚 I’m currently focusing on Data Science 
+  📚 My area of expertise is in Mobile App Development
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:haleemborham3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <a href="https://www.facebook.com/halemogpa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> <a href="https://t.me/HalemoGPA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a></p>
+<p align="center"> <a href="https://www.linkedin.com/in/daniel-freitas-de-melo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:daniel.melo42@outlook.com"><img src="https://img.shields.io/badge/Outlook-1877F2?style=for-the-badge&logo=outlook&logoColor=white" height=23></a> <a href="http://wa.me//2014033840"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <a href="https://github.com/DizzyMelo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a></p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="Kotlin" height="25" src="images/kotlin.svg"></code>
+  <code><img title="Android Studio" height="25" src="images/android-studio.svg"></code>
+  <code><img title="Flutter" height="25" src="images/flutter.svg"></code>
+  <code><img title="Google Play" height="25" src="images/google-play.svg"></code>
+  <code><img title="App Store" height="25" src="images/app-store.svg"></code>
+  <code><img title="Spring Framework" height="25" src="images/Spring-boot.svg"></code>
   <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="NodeJs" height="25" src="images/nodejs.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
 
@@ -50,7 +45,7 @@
 
 <p align="center">
 <a href="https://github.com/HalemoGPA/">
-      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DizzyMelo&hide=c%23,PHP,Hack,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
  </a>
 </p>
 
@@ -58,24 +53,74 @@
 <h2 align="center">💹 Most Popular Repos 💹</h2>
 <br>
 <p align="center">
-<a href="https://github.com/HalemoGPA/Learn-Js/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-Js&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
+<a href="https://github.com/DizzyMelo/WeatherForecastApp">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DizzyMelo&repo=WeatherForecastApp&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
   
-<a href="https://github.com/HalemoGPA/Learn-CSS/">
-  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/DizzyMelo/FlipgridMobile">
+  <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DizzyMelo&repo=FlipgridMobile&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 </p>
 
 <hr>
+
+<hr>
+<h2 align="center"> Most Important Projects </h2>
+<br>
+
+<!-- Mycon -->
+
 <p align="center">
-  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+<a href="https://www.mycon.com.br/">
+  <img width=100 align="center" src="https://play-lh.googleusercontent.com/7_2WHG9J2RDdblTsG25lTPN0q6xw0jTuhD__QSLtb3Agqz2jv_lA1X7Nd4XEeX18Hdmy=w240-h480-rw" />
+</a>
+
 </p>
 
-<p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
+<br>
+<h3> Mycon </h3>
+
+<br>
+
+Designed, implemented, tested, launched and maintained this project for almost 3 years. This mobile application has more than 100 thousand downloads and has over 5 thousand daily active users. It also counts with a 4.7 rating on Google Play Store and 4.8 on App Store by the time I left the company. Some of the technolodies used are: Kotlin, OkHttp, Dart, and Flutter
+
+<br>
+
+
+<a href="https://play.google.com/store/apps/details?id=br.com.mycon.client.app">
+<code><img title="Google Play" height="25" src="images/google-play.svg"></code>
+</a>
+
+<a href="https://apps.apple.com/us/app/mycon/id1489365751">
+<code><img title="App Store" height="25" src="images/app-store.svg"></code>
+</a>
+
+<!-- Oficinei -->
+
+<p align="center">
+<a href="https://www.mycon.com.br/">
+  <img width=100 align="center" src="https://play-lh.googleusercontent.com/Ib3U-5eFRHx25svGc0K1eQG4lF12469c_5SmQ9AnotM9GPf1IBBok6JXnBIV-MGah0E=w240-h480-rw" />
+</a>
+
 </p>
+
+<br>
+
+<h3> Oficinei </h3>
+
+<br>
+
+Built complete application from backend to frontend and mobile app. This is a propietary solution I developed and sold for a few businesses about two years ago. Some of the technologies used are: Nodejs, HTML, CSS, Javascript, Dart, and Flutter. 
+
+<br>
+
+
+<a href="https://play.google.com/store/apps/details?id=br.com.oficinei.appcliente.oficineicliente">
+<code><img title="Google Play" height="25" src="images/google-play.svg"></code>
+</a>
+
+
 
 <!---
 HalemoGPA/HalemoGPA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
