@@ -175,11 +175,12 @@ Built complete application from backend to frontend and mobile app. This is a pr
 Built weather forecast android application using the open weather map API, Kotlin, and Jetpack Compose. 
 
 1. Kotlin
-2. Retrofit
-3. GSON
-4. Dagger Hilt
-5. Coroutines
-6. REST API
+2. Jetpack Compose
+3. Retrofit
+4. GSON
+5. Dagger Hilt
+6. Coroutines
+7. REST API
 
 <a href="https://github.com/DizzyMelo/WeatherForecastApp">
   <img width=200 align="center" src="images/splash.png" />
